@@ -10,18 +10,18 @@ The Text-to-Image Diffusion Model is designed to create images based on textual 
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/hXthGk0/img1.jpg" alt="Image 1" style="width: 100%;"/></td>
-    <td><img src="https://i.ibb.co/VjhfnSC/img2.jpg" alt="Image 2" style="width: 100%;"/></td>
+    <td><img src="outputs/diffusion1.jpg" alt="Image 1" style="width: 100%;"/></td>
+    <td><img src="outputs/diffusion2.jpg" alt="Image 2" style="width: 100%;"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/grz5JMh/img3.jpg" alt="Image 3" style="width: 100%;"/></td>
-    <td><img src="https://i.ibb.co/4gFFvyx/img4.jpg" alt="Image 4" style="width: 100%;"/></td>
+    <td><img src="outputs/diffusion3.jpg" alt="Image 3" style="width: 100%;"/></td>
+    <td><img src="outputs/diffusion4.jpg" alt="Image 4" style="width: 100%;"/></td>
   </tr>
 </table>
 
 ## Architecture
 
-<img src="https://i.ibb.co/MhmTs43/architecture.jpg" alt="Image 1" style="width: 100%;"/>
+<img src="outputs/diffusion5.jpg" alt="Image 1" style="width: 100%;"/>
 
 The architecture of this project consists of several key components that work together to transform text into images:
 
